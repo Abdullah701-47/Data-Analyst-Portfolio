@@ -1,21 +1,89 @@
-# Data Analyst Portfolio
+# 📊 Data Analyst Portfolio
 
-Welcome to my Data Analyst portfolio! This repository contains a collection of projects showcasing my skills in **Data Analysis** using **Excel**, **SQL**, **Python**, and **Power BI**.
+Welcome to my **Data Analyst Portfolio**! This repository showcases my
+hands-on experience with **Data Cleaning, Analysis, Visualization,
+Automation, and Reporting** using **Excel, SQL, Python, and Power BI**.
+Each project reflects *practical, business-oriented data solutions*.
 
-## Project Categories
-1. **Excel Projects**: Data cleaning and visualization using Excel Power Query and Power Pivot.
-   - Folder: `Excel-Projects`
-2. **SQL + Power BI Projects**: Data analysis and visualization using SQL and Power BI.
-   - Folder: `SQL-PowerBI-Projects/`
-3. **Power BI Reports**: Standalone Power BI dashboards and reports.
-   - Folder: `PowerBI-Reports/`
+## 🧠 About Me
 
-## How to Use This Repository
-- Each category folder contains project-specific folders, each with a README.md providing detailed information for each project.
-- Datasets are included in this repository. You can find them within each project's directory.
+I am a **Data Analyst** with a strong analytical mindset and expertise
+in **Excel, SQL, Python**, and **Business Intelligence tools**.
+Originally trained as an engineer, I transitioned into Data Analytics to
+solve real-world business problems through data-driven insights.
 
-## Contact
-For questions or feedback, feel free to reach out:
-- **Email**: 12mabdullah701@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/muhammad-abdullah-akhtar-1a1601232/
-- **GitHub**: https://github.com/Abdullah701-47
+I enjoy:
+
+-   Cleaning messy datasets
+-   Automating manual reporting
+-   Building dashboards for decision-making
+-   Using data to answer business questions
+
+## 🛠️ Skills & Tools
+
+### 📌 Core Skills
+
+-   Data Cleaning & Transformation
+-   Exploratory Data Analysis (EDA)
+-   KPI Tracking & Dashboarding
+-   Forecasting & Trend Analysis
+-   Report Automation
+-   Critical Thinking & Problem Solving
+
+### 📌 Tools & Technologies
+
+**Excel:** Power Query, Power Pivot, PivotTables, Dashboards, Advanced
+Formulas\
+**SQL:** Joins, Aggregations, CTEs, Window Functions\
+**Python:** Pandas, NumPy\
+**Power BI:** DAX, Relationships, ETL, Dashboard Design\
+**Other:** GitHub, Google Sheets
+
+## 📁 Project Categories
+
+### 🔹 1. Excel Projects
+
+Data cleaning, transformation, formulas, automations, and dashboard
+creation using: - Power Query - Power Pivot - PivotTables - DAX (via
+Power Pivot)
+
+Folder: `Excel-Projects/`
+
+### 🔹 2. SQL + Power BI Projects
+
+End-to-end analytics combining: - SQL querying & data extraction - Power
+BI visuals & dashboards - Business KPI reporting
+
+Folder: `SQL-PowerBI-Projects/`
+
+### 🔹 3. Power BI Reports
+
+Standalone dashboards showcasing: - Business KPIs - Data modeling - DAX
+calculations - Drill-down analysis
+
+Folder: `PowerBI-Reports/`
+
+## 📂 Repository Structure
+
+📦 Data-Analyst-Portfolio ┣ 📁 Excel-Projects ┣ 📁 Pandas-Projects ┣ 📁
+SQL-PowerBI-Projects ┣ 📁 PowerBI-Reports ┗ README.md
+
+Each project folder includes: - A dedicated project directory - A
+README.md explaining the problem, approach, tools, and insights - All
+necessary datasets
+
+## 🚀 How to Use This Repository
+
+1.  Open any project folder.
+2.  Read the project-specific README.md to understand:
+    -   Project overview
+    -   Dataset details
+    -   Steps taken
+    -   Insights & conclusions
+3.  Download datasets to practice or replicate the workflows.
+
+## 📬 Contact
+
+📧 Email: 12mabdullah701@gmail.com\
+🔗 LinkedIn: https://www.linkedin.com/in/muhammad-abdullah-akhtar-1a1601232\
+🌐 Portfolio Website: (optional)\
