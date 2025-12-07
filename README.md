@@ -85,5 +85,5 @@ necessary datasets
 ## 📬 Contact
 
 📧 Email: 12mabdullah701@gmail.com\
-🔗 LinkedIn: https://www.linkedin.com/in/muhammad-abdullah-akhtar-1a1601232\
+🔗 LinkedIn: https://www.linkedin.com/in/muhammad-abdullah-akhtar-1a1601232 \
 🌐 Portfolio Website: (optional)\
