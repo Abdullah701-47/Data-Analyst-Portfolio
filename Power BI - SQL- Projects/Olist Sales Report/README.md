@@ -1,4 +1,4 @@
-# Olist E-Commerce Sales Analysis - Python, SQL, and Power BI Project
+# Olist E-Commerce Sales Analysis - SQL, and Power BI Project
 
 This project analyzes **Olist's e-commerce sales data (2016-2018)** to uncover insights into customer behavior, product performance, geographic trends, and seller efficiency. The project involves:
 
